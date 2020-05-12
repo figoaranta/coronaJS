@@ -10,5 +10,5 @@ setInterval(function(){
     	var newRecovered = (((((((stringRecovered.charAt(0).concat(",")).concat(stringRecovered.charAt(1))).concat(stringRecovered.charAt(2))).concat(stringRecovered.charAt(3))).concat(",")).concat(stringRecovered.charAt(4)).concat(stringRecovered.charAt(5))).concat(stringRecovered.charAt(6))).concat(stringRecovered.charAt(7));
     	document.getElementById("cases").innerHTML = newCases;
     	document.getElementById("recovered").innerHTML = newRecovered;
-		}
+	}
 });
