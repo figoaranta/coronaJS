@@ -1,7 +1,5 @@
 <b>CoronaJs<b><br>
 ----------------------------<br>
-How to look smart in 2 mins<br>
-----------------------------<br>
 Step 1: Set span id, which corresponds to the number of cases, with "cases".<br>
 Step 2: Set span id, which corresponds to the number of recovered patients, with "recovered".<br>
 Step 3: Set the "cases" variable equals to the current number of cases.<br>
